@@ -1,0 +1,5 @@
+#Invoke the scripts
+
+./destroyKeys.sh data/kms_2021_03_08.txt
+
+./setRotation.sh data/kms_2021_03_08.txt
