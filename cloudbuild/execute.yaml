@@ -1,0 +1,5 @@
+#Invoke the scripts
+
+./destroyKeys.sh data/file.txt
+
+./setRotation.sh data/file.txt
